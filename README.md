@@ -1,6 +1,6 @@
 Name: Thota Mani Deep
 Domain: Machine Learning
-Task2: Movies-Recommendations
+Task2: Movie-Recommendations
 
 # Movies-Recommendations
 Build a movie recommendation system using collaborative filtering and machine learning techniques in Python.
